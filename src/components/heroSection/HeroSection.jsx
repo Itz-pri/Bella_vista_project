@@ -19,12 +19,12 @@ const HeroSection = () => {
                 </div>
                 
                 <div className="absolute left-10 bottom-10 h-30 sm:h-40 w-30 sm:w-40 opacity-50">
-                    <img src="\src\assets\stamp.svg" alt="" />
+                    <img src="stamp.svg" alt="" />
                 </div>
 
                 <div className=" absolute sm:right-20 right-5 bottom-18 bg-(--primary-color) tracking-wide text-sm sm:text-lg font-semibold px-5 sm:px-10 py-4 rounded-4xl flex gap-2 hover:bg-[#cf3a2a] cursor-pointer">
                     <button className="cursor-pointer onest-font"> Book a Table </button>
-                    <img src="\src\assets\beenhere_icon.svg" alt="" srcset="" />
+                    <img src="beenhere_icon.svg" alt="" srcset="" />
                 </div>
             </section>
         </>
